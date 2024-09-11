@@ -33,7 +33,7 @@ button{
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
     max-width: 500px;
-    overflow: hidden;
+    overflow: scroll;
 }
 #display{
     width: 100%;
